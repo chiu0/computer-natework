@@ -44,7 +44,7 @@ ers. Sebastopol, CA, USA: O’Reilly Media, 2019.
 1, 2021.
 [15] Google, “LiteRT for Microcontrollers (TensorFlow Lite for Microcontrollers),” 2024. [Online]. Av
 ailable: https://ai.google.dev/edge/litert/microcontrollers/overview
-Numbers 1 through 7 are the sources on which the simulation was based — path loss followed by Rappaport, Backscatter link bugging followed Griffin and Durgin, LoRa reception sensitivity followed Semtech data sheets, bit error rates followed Proakis, ALOHA throughput followed by Abramson, and noise and transmission power numbers followed ITU-R and Röhrig.
+- Numbers 1 through 7 are the sources on which the simulation was based — path loss followed by Rappaport, Backscatter link bugging followed Griffin and Durgin, LoRa reception sensitivity followed Semtech data sheets, bit error rates followed Proakis, ALOHA throughput followed by Abramson, and noise and transmission power numbers followed ITU-R and Röhrig.
 Numbers 8 to 15 are the documents summarized in our group's data survey — LPWAN is Chaudhari and Zennaro, Backscatter is from Liu, Talla, and Gollakota researchers at the University of Washington, and network modeling studies by LoRa backscatter, Darsena, and Edge AI and TinyML are from Warden, Situnayake, Banbury, and Google.
 
 **Logical Deductions**
