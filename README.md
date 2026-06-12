@@ -1,16 +1,16 @@
 # Low Power/Massive Networks
 
 **Problem**
-The limitations of existing cloud-oriented IoT systems are four factors: High power use, Network congestion, Latency, and Rising cost.
+-The limitations of existing cloud-oriented IoT systems are four factors: High power use, Network congestion, Latency, and Rising cost.
 Solutions
-In an era when IoT devices are exploding, the key question is simple. How can I connect more devices with less power? We researched three of the answer technologies: LPWAN, Backscatter, and Edge AI and TinyML, and the first two communication technologies went as far as simulating comparisons with direct code.
+-In an era when IoT devices are exploding, the key question is simple. How can I connect more devices with less power? We researched three of the answer technologies: LPWAN, Backscatter, and Edge AI and TinyML, and the first two communication technologies went as far as simulating comparisons with direct code.
 
-Referenced Graphs
+**Referenced Graphs**
 <img width="1230" height="940" alt="image" src="https://github.com/user-attachments/assets/ff22219a-7973-42d0-a79c-e310f583270f" />
-Here are four graphs of results. The upper left is the received power over distance. The blue line is LoRa and the red line is Backscatter, and you can see the red line falling much steeper over distance, because of the round trip loss.
-The upper right is the bit error rate by distance. The backscatter experiences a sharp rise in error rates over much shorter distances. The lower left is the bar comparison of the maximum communication distance, the lower right is the ALOHA throughput curve, which peaks at the point of load 0.5. Those are four key numbers. In this setting, LoRa's maximum communication distance is about 35,000 meters, and the backscatter is about 52 meters. That's almost 678 times the difference in percentage terms. And the ALOHA theory maximum throughput was 0.184.
-Here's how it is interpreted. Because the round-trip path loss doubles, the received power of the backscatter attenuates approximately twice as fast as the distance. The result is that the communication distance is sharply divided into tens of meters versus tens of kilometers, which is the essential trade-off of the two technologies. For the same reason, the backscatter worsens over much shorter distances.
-Finally, based on the ALOHA model, throughput is limited by up to 18.4% when multiple nodes compete. This is a common challenge for both technologies in large environments: LPWAN for distance and Backscatter for power.
+-Here are four graphs of results. The upper left is the received power over distance. The blue line is LoRa and the red line is Backscatter, and you can see the red line falling much steeper over distance, because of the round trip loss.
+-The upper right is the bit error rate by distance. The backscatter experiences a sharp rise in error rates over much shorter distances. The lower left is the bar comparison of the maximum communication distance, the lower right is the ALOHA throughput curve, which peaks at the point of load 0.5. Those are four key numbers. In this setting, LoRa's maximum communication distance is about 35,000 meters, and the backscatter is about 52 meters. That's almost 678 times the difference in percentage terms. And the ALOHA theory maximum throughput was 0.184.
+-Here's how it is interpreted. Because the round-trip path loss doubles, the received power of the backscatter attenuates approximately twice as fast as the distance. The result is that the communication distance is sharply divided into tens of meters versus tens of kilometers, which is the essential trade-off of the two technologies. For the same reason, the backscatter worsens over much shorter distances.
+-Finally, based on the ALOHA model, throughput is limited by up to 18.4% when multiple nodes compete. This is a common challenge for both technologies in large environments: LPWAN for distance and Backscatter for power.
 
 Proper Citations
 [1] T. S. Rappaport, Wireless Communications: Principles and Practice, 2nd ed. Upper Saddle River,
