@@ -25,8 +25,7 @@ EE Antennas Propag. Mag., vol. 51, no. 2, pp. 11–25, Apr. 2009.
 AFIPS Fall Joint Comput. Conf., vol. 37, 1970, pp. 281–285.
 [6] C. Röhrig, D. Heß, and B. H. D. Trinh, “System design for distributed energy management using
 multiple LPWAN technologies,” in Proc. IECON 2025 — 51st Annu. Conf. IEEE Ind. Electron. Soc., 20
-25.
-[7] Recommendation ITU-R P.525-3, “Calculation of free-space attenuation,” ITU-R, Geneva, Switzer
+25. [7] Recommendation ITU-R P.525-3, “Calculation of free-space attenuation,” ITU-R, Geneva, Switzer
 land, Sep. 2016, Annex 1, Eq. (3).
 [8] B. S. Chaudhari and M. Zennaro, Eds., LPWAN Technologies for IoT and M2M Applications. Camb
 ridge, MA, USA: Academic Press, 2020.
