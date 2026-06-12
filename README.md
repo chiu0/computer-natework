@@ -2,8 +2,9 @@
 
 **Problem**
 - The limitations of existing cloud-oriented IoT systems are four factors: High power use, Network congestion, Latency, and Rising cost.
-Solutions
-In an era when IoT devices are exploding, the key question is simple. How can I connect more devices with less power? We researched three of the answer technologies: LPWAN, Backscatter, and Edge AI and TinyML, and the first two communication technologies went as far as simulating comparisons with direct code.
+
+**Solutions**
+- In an era when IoT devices are exploding, the key question is simple. How can I connect more devices with less power? We researched three of the answer technologies: LPWAN, Backscatter, and Edge AI and TinyML, and the first two communication technologies went as far as simulating comparisons with direct code.
 
 **Referenced Graphs**
 <img width="1230" height="940" alt="image" src="https://github.com/user-attachments/assets/ff22219a-7973-42d0-a79c-e310f583270f" />
